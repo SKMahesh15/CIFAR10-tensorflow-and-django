@@ -41,7 +41,4 @@ Start the Django development server:
 `python manage.py runserver`
 Open your browser and visit: http://127.0.0.1:8000/
 
-**Screenshots**
-
-![Dog photo example]("C:\Users\SK Mahesh\Pictures\Screenshots\Screenshot 2024-11-26 131258.png")
 

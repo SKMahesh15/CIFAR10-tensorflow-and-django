@@ -5,16 +5,16 @@ The application then retrieves a description of the classified category using th
 
 **CIFAR 10 Categories**
 The classifier can identify the following categories:
-Airplane
-Automobile
-Bird
-Cat
-Deer
-Dog
-Frog
-Horse
-Ship
-Truck
+Airplane,
+Automobile,
+Bird,
+Cat,
+Deer,
+Dog,
+Frog,
+Horse,
+Ship,
+Truck,
 
 **Technologies Used**
 Django: Backend framework for handling requests and rendering templates.

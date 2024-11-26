@@ -1,4 +1,4 @@
-**Image Classifier with CIFAR-10 and Wikipedia API**
+## Image Classifier with CIFAR-10 and Wikipedia API
 This is a web application built using Django and TensorFlow. 
 Users can upload an image, and the AI model will classify it into one of the 10 CIFAR-10 categories. 
 The application then retrieves a description of the classified category using the Wikipedia API.
@@ -22,7 +22,7 @@ TensorFlow: For the CIFAR-10 model.
 Wikipedia API: To fetch category descriptions.
 HTML/CSS: Used for simple forms and static pages (no JavaScript).
 
-Setup Instructions
+## Setup Instructions
 1. Clone the Repository
 `git clone https://github.com/your-username/your-repository.git`
 

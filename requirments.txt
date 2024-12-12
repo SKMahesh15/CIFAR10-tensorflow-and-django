@@ -2,4 +2,8 @@ tensorflow
 wikipedia-api
 opencv-python
 numpy
+tensorflow
+wikipedia-api
+opencv-python
+numpy
 matplotlib
